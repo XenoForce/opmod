@@ -1,0 +1,16 @@
+health: 1
+
+
+consumes: {
+  liquid: {
+    liquid: slag
+    amount: 10
+    optional: false
+    booster: false
+  }
+}
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true

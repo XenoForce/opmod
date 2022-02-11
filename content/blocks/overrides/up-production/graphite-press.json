@@ -1,0 +1,14 @@
+health: 1
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+
+/*  This is an interesting idea, but not for the standard (canned) components.
+research: {
+  parent: mechanical-drill
+  requirements: [ copper/1 ]
+}
+*/
+
+alwaysUnlocked: true

@@ -1,0 +1,8 @@
+health: 1
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+// research: door
+
+alwaysUnlocked: true

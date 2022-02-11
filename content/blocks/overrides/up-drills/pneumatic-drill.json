@@ -1,0 +1,9 @@
+tier: 9
+drillTime: 80.0
+
+health: 1
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true

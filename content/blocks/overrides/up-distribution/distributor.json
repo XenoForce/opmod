@@ -1,0 +1,7 @@
+speed: 1
+health: 1
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true

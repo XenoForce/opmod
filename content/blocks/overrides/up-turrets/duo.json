@@ -1,0 +1,16 @@
+health: 1
+
+
+ammoTypes: {
+  surge-alloy: {
+    speed: 1.0
+    damage: 1.0
+    ammoMultiplier: 1
+    
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+}
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1

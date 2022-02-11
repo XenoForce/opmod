@@ -1,0 +1,32 @@
+type: mech
+name: "P-Dagger"
+description: "Player Dagger"
+
+health: 99000
+armor: 9
+
+range: 300
+
+
+weapons: [
+  {
+    name: pLargeWeapon
+    x: 4
+    y: 2
+    reload: 8
+    alternate: true
+    ejectEffect: casing1
+    bullet: {
+      lifetime: 60
+      speed: 3
+      shootEffect: shootSmall
+      smokeEffect: shootSmallSmoke
+      damage: 180
+      width: 9
+      height: 12
+    }
+  }
+]
+
+research: pfactory
+alwaysUnlocked: true

@@ -1,0 +1,15 @@
+health: 1
+
+
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 99000000
+    optional: false
+    booster: false
+  }
+}
+
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
