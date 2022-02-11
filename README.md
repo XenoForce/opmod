@@ -47,7 +47,7 @@ This mod is over-powered. It makes the player stronger, and the enemy weaker.
 
 19. The mod contains +/- 160 json text files.
 
-20. The mod contains +/- 40 png graphics files, called sprites.
+20. The mod contains +/- 30 png graphics files, called sprites.
 
 21. This mod can be used to conquer all the sectors on the whole planet, with relatively little effort.
 
