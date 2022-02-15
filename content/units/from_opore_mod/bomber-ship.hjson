@@ -1,5 +1,5 @@
 type: flying
-speed: 4
+speed: 3.5
 buildPower: 15.0
 drillPower: 12.0
 mineSpeed: 12.0

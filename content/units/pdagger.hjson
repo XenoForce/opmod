@@ -1,6 +1,6 @@
 type: mech
-name: "P-Dagger"
-description: "Player Dagger"
+name: P-Dagger
+description: Player Dagger
 
 health: 99000
 armor: 9

@@ -8,7 +8,7 @@
     
     "singleTarget": true,
     "drawShields": false,
-    "speed": 3.65,
+    "speed": 3.5,
     "accel": 0.52,
     "drag": 0.02,
     "rotateSpeed": 1,
