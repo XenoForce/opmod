@@ -1,0 +1,8 @@
+health: 1
+
+consumes: { power: 0.0 }
+
+requirements: []
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true
