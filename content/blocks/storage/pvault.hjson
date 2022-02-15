@@ -4,8 +4,8 @@ hasItems: true
 health: 99000
 size: 3
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
 
 category: effect
-research: conveyor
+research: item-source-x
