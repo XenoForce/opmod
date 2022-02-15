@@ -1,4 +1,7 @@
 type: ItemTurret
+name: Black Turret
+description: Black Turret
+
 health: 99000
 size: 1
 
@@ -21,7 +24,7 @@ ammoTypes: {
   }
 }
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
 
 category: turret
