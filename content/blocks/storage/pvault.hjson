@@ -1,4 +1,7 @@
 type: StorageBlock
+name: Player Vault
+description: Player Vault
+
 itemCapacity: 95000
 hasItems: true
 

@@ -1,4 +1,7 @@
 {
+    "name": "Altair",
+    "description": "Altair",
+    
     "research": {
     "parent": "awp-ship",
     "requirements": [ "copper/1" ]
