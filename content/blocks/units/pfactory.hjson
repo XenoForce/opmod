@@ -1,118 +1,21 @@
 type: UnitFactory
-name: "P-Factory"
-description: "Player Factory"
+name: Player Factory
+description: Player Factory
 
 health: 99000
 size: 3
 itemCapacity: 30
 
 consumes: {}
-	
+
 plans: [
-
-		{
-			unit: pdagger
-			requirements: []
-			time: 60
-		},
-		{
-			unit: bomber-ship
-			requirements: []
-			time: 90
-		},
-		{
-			unit: awp-ship
-			requirements: []
-			time: 90
-		},
-		{
-			unit: altair
-			requirements: []
-			time: 90
-		}
-		
-		
-		
-		
-		
-
-/*  The Opore airplanes worked great, as a dependency.  :)
-		{
-			unit: opore-mod-awp-ship
-			requirements: []
-			time: 60
-		},
-		{
-			unit: opore-mod-bomber-ship
-			requirements: []
-			time: 60
-		}
-*/
-
-
-
-/* The ExoGenesis units worked great, as a dependency. :)
-
-		{
-			unit: exogenesis-altair
-			requirements: []
-			time: 60
-		},
-		{
-			unit: exogenesis-eternity
-			requirements: []
-			time: 60
-		}
-*/
-
-
-
-/*  The Original set of four player units:
-		{
-			unit: pflare
-			requirements: []
-			time: 60
-		},
-		{
-			unit: phorizon
-			requirements: []
-			time: 60
-		},
-		{
-			unit: pdagger
-			requirements: []
-			time: 60
-		},
-		{
-			unit: pmace
-			requirements: []
-			time: 60
-		}
-*/
-
-
-
-/*  For the vanilla Horizon: Remember to unlock/research this unit first:
-		{
-			unit: horizon
-			requirements: []
-			time: 60
-		}
-*/
-
-
-
-/*  For the vanilla Eclipse: Remember to unlock/research this unit first:
-		{
-			unit: eclipse
-			requirements: []
-			time: 60
-		}
-*/
-
+	{ unit: pdagger      , time: 90, requirements: [] }
+	{ unit: bomber-ship  , time: 90, requirements: [] }
+	{ unit: awp-ship     , time: 90, requirements: [] }
+	{ unit: altair       , time: 90, requirements: [] }
 ]
 
-requirements: [ ]
+requirements: []
 buildCostMultiplier: 0.1
 
 category: units

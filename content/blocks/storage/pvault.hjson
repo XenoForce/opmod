@@ -1,6 +1,7 @@
 type: StorageBlock
 itemCapacity: 95000
 hasItems: true
+
 health: 99000
 size: 3
 
