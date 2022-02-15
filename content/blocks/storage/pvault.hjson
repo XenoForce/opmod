@@ -10,3 +10,5 @@ buildCostMultiplier: 0.1
 
 category: effect
 research: item-source-x
+
+alwaysUnlocked: true

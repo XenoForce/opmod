@@ -1,10 +1,14 @@
 type: flying
+name: AWP Ship
+description: AWP Ship
+
 speed: 3.5
 buildPower: 9.0
 drillPower: 7.0
 mineSpeed: 7.0
 engineColor: fc030b
 flying: true
+
 health: 99000
 armor: 9
 weaponOffsetX: -4

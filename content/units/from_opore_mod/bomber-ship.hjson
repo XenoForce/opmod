@@ -1,10 +1,14 @@
 type: flying
+name: Bomber Ship
+description: Bomber Ship
+
 speed: 3.5
 buildPower: 15.0
 drillPower: 12.0
 mineSpeed: 12.0
 engineColor: 302f2f
 flying: true
+
 health: 99000
 armor: 9
 weaponOffsetX: 4
