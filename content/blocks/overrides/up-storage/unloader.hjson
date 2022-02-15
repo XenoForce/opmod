@@ -1,9 +1,7 @@
 speed: 1
-health: 99000
+health: 1
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
-
-// research: conveyor   // The game does not like it, if you move standard components around on the Tech Tree.
 
 alwaysUnlocked: true

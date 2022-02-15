@@ -1,9 +1,7 @@
 itemCapacity: 45000
 health: 1
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
-
-//  research: unloader   // The game does not like it, if you move standard components around on the Tech Tree.
 
 alwaysUnlocked: true
