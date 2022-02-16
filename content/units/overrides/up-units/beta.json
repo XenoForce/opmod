@@ -1,2 +1,4 @@
-health: 99000
-armor: 9
+health: 1
+armor: 0
+
+alwaysUnlocked: true
