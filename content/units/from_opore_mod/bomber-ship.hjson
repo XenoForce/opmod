@@ -3,6 +3,8 @@ name: Bomber Ship
 description: Bomber Ship
 
 speed: 3.5
+accel: 0.7
+drag: 0.1
 buildPower: 15.0
 drillPower: 12.0
 mineSpeed: 12.0
