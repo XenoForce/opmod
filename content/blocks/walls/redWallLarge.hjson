@@ -4,10 +4,10 @@ powerProduction: 900
 health: 99000
 size: 2
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
 
 category: defense
-research: goldWall
+research: redWall
 
 alwaysUnlocked: true

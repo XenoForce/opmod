@@ -1,17 +1,17 @@
 type: StorageBlock
-name: Player Vault
-description: Player Vault
+name: Player Container
+description: Player Container
 
 itemCapacity: 95000
 hasItems: true
 
 health: 99000
-size: 3
+size: 2
 
 requirements: []
 buildCostMultiplier: 0.1
 
 category: effect
-research: pcontainer
+research: item-source-x
 
 alwaysUnlocked: true

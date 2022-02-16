@@ -2,12 +2,12 @@ type: SolarGenerator
 powerProduction: 900
 
 health: 99000
-size: 2
+size: 1
 
-requirements: [ copper/1 ]
+requirements: []
 buildCostMultiplier: 0.1
 
 category: defense
-research: redWall
+research: item-source-x
 
 alwaysUnlocked: true

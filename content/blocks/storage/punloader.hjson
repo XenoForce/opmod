@@ -1,0 +1,15 @@
+type: Unloader
+name: Player Unloader
+description: Player Unloader
+
+health: 99000
+size: 1
+speed: 3
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: effect
+research: pvault
+
+alwaysUnlocked: true
