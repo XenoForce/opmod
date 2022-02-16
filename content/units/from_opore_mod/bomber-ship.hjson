@@ -11,6 +11,7 @@ flying: true
 
 health: 99000
 armor: 9
+hitSize: 16
 weaponOffsetX: 4
 
 weapons: [
@@ -22,7 +23,7 @@ weapons: [
 			type: missileBulletType
 			bulletSprite: missile-f117
 			damage: 180
-			speed: 2
+			speed: 5
 			homingRange: 150
 			homingPower: 9
 			lifetime: 160

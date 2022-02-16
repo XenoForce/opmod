@@ -13,6 +13,7 @@ plans: [
 	{ unit: bomber-ship  , time: 90, requirements: [] }
 	{ unit: awp-ship     , time: 90, requirements: [] }
 	{ unit: altair       , time: 90, requirements: [] }
+	{ unit: attacker     , time: 90, requirements: [] }
 ]
 
 requirements: []

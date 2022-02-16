@@ -11,6 +11,7 @@ flying: true
 
 health: 99000
 armor: 9
+hitSize: 9
 weaponOffsetX: -4
 
 weapons: [
