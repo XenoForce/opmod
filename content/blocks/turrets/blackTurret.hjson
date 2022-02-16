@@ -24,7 +24,7 @@ ammoTypes: {
   }
 }
 
-requirements: []
+requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
 category: turret
