@@ -1,0 +1,41 @@
+type: flying
+name: Zeta Drone
+description: Zeta Drone
+
+speed: 3.0
+accel: 0.7
+drag: 0.1
+flying: true
+buildSpeed: 9.0
+
+health: 99000
+armor: 9
+hitSize: 9
+weaponOffsetX: -4
+faceTarget: true
+rotateSpeed: 1
+
+
+weapons: [{
+  name: shellLauncher
+  x: -6
+  y: 8
+  reload: 14
+  shots: 2
+  shotDelay: 2
+  alternate: true
+  ejectEffect: none
+  velocityRnd: 0.2
+  inaccuracy: 2
+  bullet: {
+    type: BasicBulletType
+    lifetime: 60
+    speed: 5
+    width: 8
+    height: 8
+    damage: 108
+  }
+}]
+
+research: pfactory
+alwaysUnlocked: true

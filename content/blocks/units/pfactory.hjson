@@ -9,6 +9,7 @@ itemCapacity: 30
 consumes: {}
 
 plans: [
+	{ unit: zeta         , time: 90, requirements: [] }
 	{ unit: pdagger      , time: 90, requirements: [] }
 	{ unit: bomber-ship  , time: 90, requirements: [] }
 	{ unit: awp-ship     , time: 90, requirements: [] }
