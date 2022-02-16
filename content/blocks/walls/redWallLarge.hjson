@@ -1,6 +1,9 @@
 type: SolarGenerator
 powerProduction: 900
 
+name: Large Red Wall
+description: Large Red Wall
+
 health: 99000
 size: 2
 

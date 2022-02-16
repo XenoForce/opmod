@@ -1,6 +1,9 @@
 type: SolarGenerator
 powerProduction: 900
 
+name: Gold Wall
+description: Gold Wall
+
 health: 99000
 size: 1
 

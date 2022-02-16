@@ -1,6 +1,9 @@
 type: SolarGenerator
 powerProduction: 900
 
+name: Large Gold Wall
+description: Large Gold Wall
+
 health: 99000
 size: 2
 
