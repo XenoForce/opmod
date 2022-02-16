@@ -1,7 +1,7 @@
-itemCapacity: 45000
+itemCapacity: 95000
 health: 1
 
-requirements: []
+requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
 alwaysUnlocked: true
