@@ -2,8 +2,8 @@ type: flying
 name: Bomber Ship
 description: Bomber Ship
 
-speed: 3.5
-accel: 0.7
+speed: 2.9
+accel: 0.6
 drag: 0.1
 buildPower: 15.0
 drillPower: 12.0
@@ -22,15 +22,19 @@ weapons: [
 		reload: 4
 		shootSound: missile
 		bullet: {
-			type: missileBulletType
+			type: BasicBulletType
 			bulletSprite: missile-f117
 			damage: 180
 			speed: 5
-			homingRange: 150
-			homingPower: 9
-			lifetime: 160
-			frontColor: 0000ff
-			backColor:  00ff00
+			
+			width: 7
+			height: 14
+			
+			// homingRange: 150
+			// homingPower: 9
+			lifetime: 80
+			frontColor: 888888
+			backColor:  ff0000
 			trailColor: ffff88
 		}
 	}
