@@ -6,7 +6,8 @@ speed: 3.5
 accel: 0.7
 drag: 0.1
 // engineColor: fc030b
-engineSize: 3
+engineSize: 2
+engineOffset: 5
 flying: true
 
 health: 99000
