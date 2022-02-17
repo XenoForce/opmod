@@ -11,10 +11,10 @@ solid: true
 group: transportation
 configurable: true
 
-requirements: [ ]               // Was: copper/1
+requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
+category: effect
 research: duo
 
 alwaysUnlocked: true
-category: effect
