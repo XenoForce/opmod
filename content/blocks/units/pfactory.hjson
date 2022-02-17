@@ -21,6 +21,6 @@ requirements: []
 buildCostMultiplier: 0.1
 
 category: units
-research: item-source-x
+research: opmod-logo
 
 alwaysUnlocked: true

@@ -12,6 +12,6 @@ requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
 category: effect
-research: item-source-x
+research: opmod-logo
 
 alwaysUnlocked: true

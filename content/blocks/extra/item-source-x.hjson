@@ -15,6 +15,6 @@ requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
 category: effect
-research: duo
+research: opmod-logo
 
 alwaysUnlocked: true
