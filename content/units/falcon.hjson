@@ -1,0 +1,37 @@
+type: flying
+name: Falcon
+description: Falcon
+
+speed: 2.9
+accel: 0.6
+drag: 0.1
+engineOffset: 6
+engineSize: 1
+flying: true
+
+health: 99000
+armor: 9
+hitSize: 11
+
+
+weapons: [
+	{
+		name: main-weapon
+		reload: 4
+		shootSound: missile
+		bullet: {
+			type: BasicBulletType
+			damage: 180
+			speed: 5
+			lifetime: 80
+			width: 7
+			height: 14
+			// frontColor: 888888
+			// backColor:  ff0000
+			// trailColor: ffff88
+		}
+	}
+]
+
+research: attacker
+alwaysUnlocked: true
