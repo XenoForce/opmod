@@ -5,16 +5,13 @@ description: AWP Ship
 speed: 3.5
 accel: 0.7
 drag: 0.1
-buildPower: 9.0
-drillPower: 7.0
-mineSpeed: 7.0
-engineColor: fc030b
+// engineColor: fc030b
+engineSize: 3
 flying: true
 
 health: 99000
 armor: 9
 hitSize: 9
-weaponOffsetX: -4
 
 weapons: [
 	{

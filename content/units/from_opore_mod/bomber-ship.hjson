@@ -5,16 +5,15 @@ description: Bomber Ship
 speed: 2.9
 accel: 0.6
 drag: 0.1
-buildPower: 15.0
-drillPower: 12.0
-mineSpeed: 12.0
-engineColor: 302f2f
+// engineColor: 302f2f
+engineColor: bbbbcc
+engineSize: 1
 flying: true
 
 health: 99000
 armor: 9
 hitSize: 16
-weaponOffsetX: 4
+
 
 weapons: [
 	{
