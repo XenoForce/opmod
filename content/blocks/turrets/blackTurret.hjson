@@ -5,19 +5,20 @@ description: Black Turret
 health: 99000
 size: 1
 
-reload: 8.0
+reloadTime: 8.0
 range: 240
 inaccuracy: 1
-rotatespeed: 12
+rotateSpeed: 12
 
 ammoTypes: {
   copper: {
-    speed: 3.0
+    lifetime: 80
+    speed: 4.0
     damage: 180.0
     ammoMultiplier: 5
     
-    bulletWidth: 16
-    bulletHeight: 21
+    width: 6
+    height: 7
     
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke

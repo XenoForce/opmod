@@ -22,7 +22,7 @@ weapons: [
 		shootSound: missile
 		bullet: {
 			type: BasicBulletType
-			bulletSprite: missile-f117
+			sprite: opmod-missile-f117
 			damage: 180
 			speed: 5
 			

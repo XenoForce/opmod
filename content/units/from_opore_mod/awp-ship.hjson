@@ -27,10 +27,7 @@ weapons: [
 		bullet: { 
 			type: ContinuousLaserBulletType
 			damage: 180
-			continuous: true
 			lifetime: 60
-			frontColor: fc8803
-			backColor:  fc8803
 			width: 7
 		}
 	}
