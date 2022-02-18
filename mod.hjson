@@ -2,6 +2,6 @@ name: opmod
 displayName: opmod
 author: XenoTale
 description: This mod is over-powered. It makes the player stronger, and the enemy weaker.
-version: "1.5.9"
+version: "1.6.0"
 minGameVersion: "135"
 dependencies: []
