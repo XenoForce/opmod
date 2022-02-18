@@ -19,7 +19,6 @@ weapons: [
 		name: awp-shotty
 		reload: 60
 		shootSound: laser
-		shootEffect: hitMeltdown
 		x: 0
 		y: 5
 		shootCone: 0
