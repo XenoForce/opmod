@@ -21,11 +21,22 @@ weapons: [
 		shootSound: missile
 		bullet: {
 			type: BasicBulletType
-			damage: 180
-			speed: 5
-			lifetime: 80
 			width: 7
 			height: 14
+			
+			lifetime: 80
+			speed: 5
+			damage: 180
+			
+			splashDamage: 180
+			splashDamageRadius: 64
+			
+			pierce: true
+			pierceBuilding: true
+			
+			absorbable: false
+			reflectable: false
+			
 			// frontColor: 888888
 			// backColor:  ff0000
 			// trailColor: ffff88
