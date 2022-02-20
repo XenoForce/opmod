@@ -16,6 +16,7 @@ plans: [
 	{ unit: altair       , time: 90, requirements: [] }
 	{ unit: attacker     , time: 90, requirements: [] }
 	{ unit: falcon       , time: 90, requirements: [] }
+	{ unit: prototype-s  , time: 90, requirements: [] }
 ]
 
 requirements: []
