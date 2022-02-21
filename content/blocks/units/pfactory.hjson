@@ -17,6 +17,7 @@ plans: [
 	{ unit: attacker     , time: 90, requirements: [] }
 	{ unit: falcon       , time: 90, requirements: [] }
 	{ unit: prototype-s  , time: 90, requirements: [] }
+	{ unit: prototype-t  , time: 90, requirements: [] }
 ]
 
 requirements: []
