@@ -26,21 +26,21 @@ This mod is over-powered. It makes the player stronger, and the enemy weaker.
    useless and out-of-ammo on pre-built (in-game) attack maps.
    These attack maps were previously designed with the original ammo types in mind. (lol)
 
-10. Item sources are available at no cost.
+10. Item sources are available at the cost of 1 copper each.
 
 11. Sources for unlimited energy (power) are available at the cost of 1 copper each.
 
 12. Strong new units have been introduced for the player, to use on any map type.
 
-13. The cost of the unit factory is 1 copper.
+13. The cost of the unit factory is zero.
 
 14. The per-unit cost of building units is zero.
 
-15. The per-unit construction speed varies from 1 to 2 seconds respectively.
+15. The per-unit construction speed is 1.5 seconds.
 
 16. One new ground unit has been introduced for the benefit of the player, with health = 99,000.
 
-17. Three new flying units were introduced for the benefit of the player. All 3 are strong and powerful.
+17. Seven new flying units were introduced for the benefit of the player. All 7 are strong and powerful.
 
 18. Most components on the Tech Tree are unlocked by default, from the start of the game.
     Therefore, there is no need for the player to ever gather resources, in order to unlock these components.
