@@ -28,27 +28,29 @@ This mod is over-powered. It makes the player stronger, and the enemy weaker.
 
 10. Item sources are available at the cost of 1 copper each.
 
-11. Sources for unlimited energy (power) are available at the cost of 1 copper each.
+11. Liquid sources are available at the cost of 1 copper each.
 
-12. Strong new units have been introduced for the player, to use on any map type.
+12. Sources for unlimited energy (power) are available at the cost of 1 copper each.
 
-13. The cost of the unit factory is zero.
+13. Strong new units have been introduced for the player, to use on any map type.
 
-14. The per-unit cost of building units is zero.
+14. The cost of the unit factory is zero.
 
-15. The per-unit construction speed is 1.5 seconds.
+15. The per-unit cost of building units is zero.
 
-16. One new ground unit has been introduced for the benefit of the player, with health = 99,000.
+16. The per-unit construction speed is 1.5 seconds.
 
-17. Seven new flying units were introduced for the benefit of the player. All 7 are strong and powerful.
+17. One new ground unit has been introduced for the benefit of the player, with health = 99,000.
 
-18. Most components on the Tech Tree are unlocked by default, from the start of the game.
+18. Seven new flying units were introduced for the benefit of the player. All 7 are strong and powerful.
+
+19. Most components on the Tech Tree are unlocked by default, from the start of the game.
     Therefore, there is no need for the player to ever gather resources, in order to unlock these components.
 
-19. The mod contains +/- 160 json text files.
+20. The mod contains +/- 160 json text files.
 
-20. The mod contains +/- 30 png graphics files, called sprites.
+21. The mod contains +/- 30 png graphics files, called sprites.
 
-21. This mod can be used to conquer all the sectors on the whole planet, with relatively little effort.
+22. This mod can be used to conquer all the sectors on the whole planet, with relatively little effort.
 
 **End of list.**
