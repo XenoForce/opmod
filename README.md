@@ -3,6 +3,12 @@ This mod is over-powered. It makes the player stronger, and the enemy weaker.
 
 <br>
 
+**WARNING:**
+
+This is a powerful cheat mod. It should only be used in cases where you really get stuck on a certain map, and need some serious help, in order to defeat the map in question.
+
+<br>
+
 **Feature List:**
 
 1. Health of all enemy units have been reduced to 1.
