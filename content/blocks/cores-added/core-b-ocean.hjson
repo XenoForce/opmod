@@ -1,0 +1,21 @@
+
+type: CoreBlock
+name: Ocean Core 4
+description: This core was made from minerals from the ocean.
+
+
+health: 999000
+
+unitCapModifier: 3
+itemCapacity: 95000
+unitType: zeta
+size: 4
+
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+category: effect
+research: core-shard
+
+alwaysUnlocked: true

@@ -1,0 +1,22 @@
+
+a 3  emerald-core
+
+b 4  indigo
+b 4  reinforced-core-indigo
+b 4  scarlet-gem
+b 4  core-ocean
+
+c 5  gold-core-five
+
+d 6  core-cage
+d 6  core-victory
+
+e 7  core-seven
+e 7  core-triumph
+e 7  gold-core-seven
+
+g 9  core-nine-tetra-combo
+g 9  core-nine-tetra
+g 9  gold-core-nine
+
+h 10  core-ten
