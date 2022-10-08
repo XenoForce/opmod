@@ -1,6 +1,13 @@
 health: 1
 
 
+/*
+ammoTypes: {
+  phase-fabric: {}
+}
+*/
+
+
 ammoTypes: {
   surge-alloy: {
     speed: 1.0
