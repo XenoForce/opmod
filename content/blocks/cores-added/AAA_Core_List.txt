@@ -1,3 +1,10 @@
+A  8x8  core is 256x256 pixels.
+A 16x16 core is 512x512 pixels.
+A 10x10 core is 320x320 pixels.
+
+Therefore, 1 game block size is 32 pixels.
+
+-------------------------------------
 
 a 3  emerald-core
 
